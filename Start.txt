@@ -9,6 +9,9 @@
 </head>
 
 <body>
+
+<!--These are supposed to be animated birds flying across the screen-->
+
  <div class="container">
 	
 	<h1>Look at these really cool birds</h1>
